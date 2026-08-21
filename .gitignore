@@ -1,0 +1,11 @@
+# Obsidian 个人工作区状态（面板布局、图谱视图等个人偏好，不入库）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 回收站
+.trash/
