@@ -9,3 +9,9 @@ Thumbs.db
 
 # 回收站
 .trash/
+
+# Qoder IDE 本地状态（RepoWiki 等）
+.qoder/
+
+# wiki 部署临时目录
+.wiki-deploy/
