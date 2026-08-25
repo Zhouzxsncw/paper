@@ -19,7 +19,7 @@
 | A Pragmatic VLA Foundation Model | [papers/A Pragmatic VLA Foundation Model.pdf](papers/A%20Pragmatic%20VLA%20Foundation%20Model.pdf) | [notes/A Pragmatic VLA Foundation Model.md](notes/A%20Pragmatic%20VLA%20Foundation%20Model.md) | 待解读 |
 | M2Diffuser（扩散轨迹优化） | [papers/M2Diffuser: Diffusion-based Trajectory Optimization.pdf](papers/M2Diffuser:%20Diffusion-based%20Trajectory%20Optimization.pdf) | [notes/M2Diffuser: Diffusion-based Trajectory Optimization.md](notes/M2Diffuser:%20Diffusion-based%20Trajectory%20Optimization.md) | 待解读 |
 | Diffusion Policy（视觉-动作扩散策略） | [papers/Diffusion Policy: Visuomotor Policy.pdf](papers/Diffusion%20Policy:%20Visuomotor%20Policy.pdf) | [notes/Diffusion Policy: Visuomotor Policy.md](notes/Diffusion%20Policy:%20Visuomotor%20Policy.md) | 待解读 |
-| ACT（精细双臂操作） | [papers/（ACT）Learning Fine-Grained Bimanual Manipulation with.pdf](papers/（ACT）Learning%20Fine-Grained%20Bimanual%20Manipulation%20with.pdf) | [notes/（ACT）Learning Fine-Grained Bimanual Manipulation with.md](notes/（ACT）Learning%20Fine-Grained%20Bimanual%20Manipulation%20with.md) | 待解读 |
+| ACT（精细双臂操作） | [papers/（ACT）Learning Fine-Grained Bimanual Manipulation with.pdf](papers/（ACT）Learning%20Fine-Grained%20Bimanual%20Manipulation%20with.pdf) | [notes/（ACT）Learning Fine-Grained Bimanual Manipulation with.md](notes/（ACT）Learning%20Fine-Grained%20Bimanual%20Manipulation%20with.md) | 已解读 |
 | Simultaneous Tactile-Visual Perception（触觉-视觉多模态） | [papers/Simultaneous Tactile-Visual Perception.pdf](papers/Simultaneous%20Tactile-Visual%20Perception%20for%0ALearning%20Multimodal%20Robot%20Manipulation.pdf) | — | 待转换 |
 | pi05（VLA 基础模型） | [papers/pi05.pdf](papers/pi05.pdf) | — | 待转换 |
 | pi06（VLA 基础模型） | [papers/pi06*.pdf](papers/pi06%2A.pdf) | — | 待转换 |
