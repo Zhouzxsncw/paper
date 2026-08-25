@@ -23,7 +23,7 @@
 | LingBot-VA 1.0 | [papers/Lingbot-VA 1.0.pdf](papers/Lingbot-VA%201.0.pdf) | — | 待转换 |
 | LingBot-VA 2.0 | [papers/LingBot-VA 2.0.pdf](papers/LingBot-VA%202.0.pdf) | — | 待转换 |
 | Simultaneous Tactile-Visual Perception（触觉-视觉多模态） | [papers/Simultaneous Tactile-Visual Perception.pdf](papers/Simultaneous%20Tactile-Visual%20Perception%20for%0ALearning%20Multimodal%20Robot%20Manipulation.pdf) | — | 待转换 |
-| pi05（VLA 基础模型） | [papers/pi05.pdf](papers/pi05.pdf) | — | 待转换 |
+| pi05（π0.5，开放世界泛化 VLA） | [papers/pi05.pdf](papers/pi05.pdf) | [notes/pi05.md](notes/pi05.md) | 已解读 |
 | pi06（VLA 基础模型） | [papers/pi06*.pdf](papers/pi06%2A.pdf) | — | 待转换 |
 
 > 命名约定：`notes/` 下的 md 与 `papers/` 下的 PDF 使用相同基础名，对应关系一目了然。
