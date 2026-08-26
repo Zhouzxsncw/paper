@@ -16,7 +16,8 @@
 | IROS24 Face（语音驱动机器人表情） | [papers/IROS24_Face.pdf](papers/IROS24_Face.pdf) | [notes/IROS24_Face.md](notes/IROS24_Face.md) | 已解读 |
 | OmniXtreme（高动态人形机器人控制） | [papers/OmniXtreme.pdf](papers/OmniXtreme.pdf) | [notes/OmniXtreme.md](notes/OmniXtreme.md) | 已解读 |
 | BeyondMimic（从动作追踪到通用控制） | [papers/beyondmimic.pdf](papers/beyondmimic.pdf) | [notes/beyondmimic.md](notes/beyondmimic.md) | 已解读 |
-| A Pragmatic VLA Foundation Model（LingBot-VLA） | [papers/(Lingbot-VLA 1.0)A Pragmatic VLA Foundation Model.pdf](papers/(Lingbot-VLA%201.0)A%20Pragmatic%20VLA%20Foundation%20Model.pdf) | [notes/(Lingbot-VLA 1.0)A Pragmatic VLA Foundation Model.md](notes/(Lingbot-VLA%201.0)A%20Pragmatic%20VLA%20Foundation%20Model.md) | 待解读 |
+| A Pragmatic VLA Foundation Model（LingBot-VLA 1.0） | [papers/Lingbot-VLA 1.0.pdf](papers/Lingbot-VLA%201.0.pdf) | [notes/Lingbot-VLA 1.0.md](notes/Lingbot-VLA%201.0.md) | 已解读 |
+| LingBot-VLA 2.0 | [papers/Lingbot-VLA 2.0.pdf](papers/Lingbot-VLA%202.0.pdf) | [notes/Lingbot-VLA_2.0.md](notes/Lingbot-VLA_2.0.md) | 待解读 |
 | M2Diffuser（扩散轨迹优化） | [papers/M2Diffuser: Diffusion-based Trajectory Optimization.pdf](papers/M2Diffuser:%20Diffusion-based%20Trajectory%20Optimization.pdf) | [notes/M2Diffuser: Diffusion-based Trajectory Optimization.md](notes/M2Diffuser:%20Diffusion-based%20Trajectory%20Optimization.md) | 待解读 |
 | Diffusion Policy（视觉-动作扩散策略） | [papers/(DP)Diffusion Policy: Visuomotor Policy.pdf](papers/(DP)Diffusion%20Policy:%20Visuomotor%20Policy.pdf) | [notes/(DP)Diffusion Policy: Visuomotor Policy.md](notes/(DP)Diffusion%20Policy:%20Visuomotor%20Policy.md) | 已解读 |
 | ACT（精细双臂操作） | [papers/(ACT)Learning Fine-Grained Bimanual Manipulation with.pdf](papers/(ACT)Learning%20Fine-Grained%20Bimanual%20Manipulation%20with.pdf) | [notes/(ACT)Learning Fine-Grained Bimanual Manipulation with.md](notes/(ACT)Learning%20Fine-Grained%20Bimanual%20Manipulation%20with.md) | 已解读 |
