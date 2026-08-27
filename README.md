@@ -22,7 +22,7 @@
 | Diffusion Policy（视觉-动作扩散策略） | [papers/(DP)Diffusion Policy: Visuomotor Policy.pdf](papers/(DP)Diffusion%20Policy:%20Visuomotor%20Policy.pdf) | [notes/(DP)Diffusion Policy: Visuomotor Policy.md](notes/(DP)Diffusion%20Policy:%20Visuomotor%20Policy.md) | 已解读 |
 | ACT（精细双臂操作） | [papers/(ACT)Learning Fine-Grained Bimanual Manipulation with.pdf](papers/(ACT)Learning%20Fine-Grained%20Bimanual%20Manipulation%20with.pdf) | [notes/(ACT)Learning Fine-Grained Bimanual Manipulation with.md](notes/(ACT)Learning%20Fine-Grained%20Bimanual%20Manipulation%20with.md) | 已解读 |
 | Causal World Modeling for Robot Control（LingBot-VA 1.0） | [papers/Lingbot-VA 1.0.pdf](papers/Lingbot-VA%201.0.pdf) | [notes/Lingbot-VA 1.0.md](notes/Lingbot-VA%201.0.md) | 已解读 |
-| Native Video-Action Pretraining（LingBot-VA 2.0） | [papers/LingBot-VA 2.0.pdf](papers/LingBot-VA%202.0.pdf) | [notes/LingBot-VA 2.0.md](notes/LingBot-VA%202.0.md) | 待解读 |
+| Native Video-Action Pretraining（LingBot-VA 2.0） | [papers/LingBot-VA 2.0.pdf](papers/LingBot-VA%202.0.pdf) | [notes/LingBot-VA 2.0.md](notes/LingBot-VA%202.0.md) | 已解读 |
 | Simultaneous Tactile-Visual Perception（触觉-视觉多模态） | [papers/Simultaneous Tactile-Visual Perception.pdf](papers/Simultaneous%20Tactile-Visual%20Perception%20for%0ALearning%20Multimodal%20Robot%20Manipulation.pdf) | — | 待转换 |
 | pi05（π0.5，开放世界泛化 VLA） | [papers/pi05.pdf](papers/pi05.pdf) | [notes/pi05.md](notes/pi05.md) | 已解读 |
 | pi06（VLA 基础模型） | [papers/pi06*.pdf](papers/pi06%2A.pdf) | — | 待转换 |
